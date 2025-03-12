@@ -7,3 +7,6 @@
 👀 I’m looking for an Internship
 
 📫 How to reach me: shareefmahammad87@gmail.com
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-shareef-shaik-1a9139276)
+
